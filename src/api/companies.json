@@ -1,0 +1,38 @@
+[
+  {
+    "id": "636c11fe31a3f59d7df5648f",
+    "address": "678 Norwood Avenue, Staples, Virgin Islands, 1689",
+    "name": "MANUFACT",
+    "employeesNumber": 1
+  },
+  {
+    "id": "636c11fef9001fb7dcba7a88",
+    "address": "315 Harway Avenue, Allentown, Missouri, 6304",
+    "name": "GAPTEC",
+    "employeesNumber": 1
+  },
+  {
+    "id": "636c11fee79a8ca5976ba06d",
+    "address": "766 Boardwalk , Campo, Pennsylvania, 853",
+    "name": "ZOLAR",
+    "employeesNumber": 2
+  },
+  {
+    "id": "636c11fee370940efda4d3d1",
+    "address": "329 Central Avenue, Titanic, Georgia, 934",
+    "name": "CALLFLEX",
+    "employeesNumber": 3
+  },
+  {
+    "id": "636c11fea490775116acb136",
+    "address": "321 Polar Street, Marenisco, Washington, 6909",
+    "name": "TYPHONICA",
+    "employeesNumber": 4
+  },
+  {
+    "id": "636c11feb52f883c086c35e3",
+    "address": "449 Bills Place, Hendersonville, New Hampshire, 9792",
+    "name": "MAROPTIC",
+    "employeesNumber": 5
+  }
+]

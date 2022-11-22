@@ -1,0 +1,9 @@
+.addCompany {
+  display: flex;
+
+  &__column {
+    margin: 12px 6px;
+    display: flex;
+    flex-direction: column;
+  }
+}

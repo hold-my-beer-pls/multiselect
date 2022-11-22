@@ -1,0 +1,112 @@
+{
+  "company": [
+    {
+      "id": "636c11fe31a3f59d7df5648f",
+      "address": "678 Norwood Avenue, Staples, Virgin Islands, 1689",
+      "name": "MANUFACT",
+      "employeesNumber": 1
+    },
+    {
+      "id": "636c11fef9001fb7dcba7a88",
+      "address": "315 Harway Avenue, Allentown, Missouri, 6304",
+      "name": "GAPTEC",
+      "employeesNumber": 2
+    },
+    {
+      "id": "636c11fee79a8ca5976ba06d",
+      "address": "766 Boardwalk , Campo, Pennsylvania, 853",
+      "name": "ZOLAR",
+      "employeesNumber": 2
+    },
+    {
+      "id": "636c11fee370940efda4d3d1",
+      "address": "329 Central Avenue, Titanic, Georgia, 934",
+      "name": "CALLFLEX",
+      "employeesNumber": 3
+    },
+    {
+      "id": "636c11fea490775116acb136",
+      "address": "321 Polar Street, Marenisco, Washington, 6909",
+      "name": "TYPHONICA",
+      "employeesNumber": 4
+    },
+    {
+      "id": "636c11feb52f883c086c35e3",
+      "address": "449 Bills Place, Hendersonville, New Hampshire, 9792",
+      "name": "MAROPTIC",
+      "employeesNumber": 5
+    }
+  ],
+  "employee": [
+    {
+      "id": "636c12a5bf74ace9eacd66ca",
+      "name": "Claudia",
+      "surname": "Prince",
+      "post": "frontend",
+      "idCompany": "636c11fea490775116acb136"
+    },
+    {
+      "id": "636c12a512486ddc2e16c1e9",
+      "name": "Angelia",
+      "surname": "Hayes",
+      "post": "fullstack",
+      "idCompany": "636c11fee79a8ca5976ba06d"
+    },
+    {
+      "id": "636c12a5a565226b55a841b2",
+      "name": "Lynette",
+      "surname": "Carlson",
+      "post": "fullstack",
+      "idCompany": "636c11fee79a8ca5976ba06d"
+    },
+    {
+      "id": "636c12a51137e9e19151e44d",
+      "name": "Liliana",
+      "surname": "Frederick",
+      "post": "backend",
+      "idCompany": "636c11fee370940efda4d3d1"
+    },
+    {
+      "id": "636c12a5e3003c824e6c95ad",
+      "name": "Sherman",
+      "surname": "Bridges",
+      "post": "frontend",
+      "idCompany": "636c11fea490775116acb136"
+    },
+    {
+      "id": "636c12a59637ec1df3e732fb",
+      "name": "George",
+      "surname": "Chandler",
+      "post": "backend",
+      "idCompany": "636c11fef9001fb7dcba7a88"
+    },
+    {
+      "id": "636c12a5376af6c423d13a7c",
+      "name": "Rebecca",
+      "surname": "Parker",
+      "post": "qa",
+      "idCompany": "636c11fe31a3f59d7df5648f"
+    },
+    {
+      "id": "636c12a5596b92035ddfe5d5",
+      "name": "Snider",
+      "surname": "Pacheco",
+      "post": "fullstack",
+      "idCompany": "636c11fea490775116acb136"
+    },
+    {
+      "id": "636c12a5fe382625e688ab68",
+      "name": "Latisha",
+      "surname": "Roach",
+      "post": "backend",
+      "idCompany": "636c11fee79a8ca5976ba06d"
+    },
+    {
+      "id": "636c12a57f5a43c94965f439",
+      "name": "Gross",
+      "surname": "Sykes",
+      "post": "fullstack",
+      "idCompany": "636c11fef9001fb7dcba7a88"
+    }
+  ]
+}

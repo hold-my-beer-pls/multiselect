@@ -1,0 +1,12 @@
+.companyPage {
+    display: flex;
+
+    &__list {
+        margin: 24px;
+        width: 700px;
+    }
+
+    &__employees {
+        margin: 24px;
+    }
+}
